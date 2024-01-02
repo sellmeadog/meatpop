@@ -41,6 +41,12 @@
           ]
         }
       ]
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "3b842180-5752-4b87-b436-c824845b44a9"
+      }
+    },
+    "owner": "kenniejaydavis"
   }
 }
